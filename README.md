@@ -9,6 +9,8 @@ This is a simple Employee Management System built using Spring Boot.
 - Provides basic CRUD operations for managing employee data.
 - Uses Spring MVC for handling web requests.
 
+![1](https://github.com/MN10101/employee-management-system/assets/78208459/990e376e-c19f-4bc4-b87a-e2c7b78faf56)
+
 ## Prerequisites
 
 Before running this application, make sure you have the following installed:
