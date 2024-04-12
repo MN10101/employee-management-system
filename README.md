@@ -11,7 +11,7 @@ This is a simple Employee Management System built using Spring Boot.
 
 ![1](https://github.com/MN10101/employee-management-system/assets/78208459/ae263b47-21c1-45a0-a110-6e784b929d83)
 
-![2](https://github.com/MN10101/employee-management-system/assets/78208459/b5dc4352-35ba-49a7-a984-a7f04cd79ad3)
+![2](https://github.com/MN10101/employee-management-system/assets/78208459/16b08d61-158c-4ff4-a43c-d5c08cc6da4f)
 
 ## Prerequisites
 
