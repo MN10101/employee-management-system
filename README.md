@@ -64,7 +64,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 
-![1](https://github.com/MN10101/employee-management-system/assets/78208459/ae263b47-21c1-45a0-a110-6e784b929d83)
+![3](https://github.com/MN10101/employee-management-system/assets/78208459/a47048bb-ef1c-4b45-a9b8-0e5367c1adbb)
 
-![2](https://github.com/MN10101/employee-management-system/assets/78208459/16b08d61-158c-4ff4-a43c-d5c08cc6da4f)
-
+![4](https://github.com/MN10101/employee-management-system/assets/78208459/4417a33a-ee32-4bfc-a176-6725c9932339)
