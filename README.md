@@ -63,6 +63,10 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+## Author
+
+- Mahmoud Najmeh
+
 
 ![3](https://github.com/MN10101/employee-management-system/assets/78208459/a47048bb-ef1c-4b45-a9b8-0e5367c1adbb)
 
