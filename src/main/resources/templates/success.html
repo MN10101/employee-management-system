@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,6 +10,22 @@
             margin: 0;
             padding: 20px;
             text-align: center;
+            background-color: #f0f0f0;
+            background-image: linear-gradient(to right bottom, #b4ceda, #b4ceda);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            max-width: 500px;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            text-align: center;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            background-image: linear-gradient(to right bottom, #2980b9, #6ab0de);
         }
 
         h1 {
@@ -26,7 +42,9 @@
     </style>
 </head>
 <body>
-<h1>Registration Successful!</h1>
-<p>Thank you for registering for the conference. We look forward to seeing you!</p>
+<div class="container">
+    <h1>Registration Successful!</h1>
+    <p>Thank you for registering for the conference. We look forward to seeing you!</p>
+</div>
 </body>
 </html>
