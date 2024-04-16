@@ -68,6 +68,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Mahmoud Najmeh
 
 
-![3](https://github.com/MN10101/employee-management-system/assets/78208459/a47048bb-ef1c-4b45-a9b8-0e5367c1adbb)
+![1](https://github.com/MN10101/employee-management-system/assets/78208459/9e96def2-3a71-4c20-a90b-9a0eff7aa5a6)
 
-![4](https://github.com/MN10101/employee-management-system/assets/78208459/4417a33a-ee32-4bfc-a176-6725c9932339)
+![2](https://github.com/MN10101/employee-management-system/assets/78208459/fcb2cf32-da6c-46dd-869c-3785dc6f5e94)
